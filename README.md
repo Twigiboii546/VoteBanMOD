@@ -1,5 +1,8 @@
 # VoteBan Mod (Fabric 1.21.11)
 
+##Important
+the jar file is only needed the rest is just source code
+
 A lightweight server-side moderation mod that allows players to vote-ban others in a fair and controlled way.
 
 ## Features
